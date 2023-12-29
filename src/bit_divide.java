@@ -18,7 +18,7 @@ public class bit_divide {
                 System.out.println("猜小了");
             else
                 System.out.println("good");
-        }while (x != num + 2);
+        }while (x != num + 3);
     }
 
 }
