@@ -19,7 +19,7 @@ public class bit_divide {
             else
                 System.out.println("good");
         }while (x != num + 5);
-    }
+
 
 }
 
